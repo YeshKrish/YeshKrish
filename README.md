@@ -24,7 +24,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yeswinkrishna"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yeswinkrishna" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeshkrish&show_icons=true&theme=dark&title_color=ca4e4e&text_color=dedede&locale=en&layout=compact" alt="yeshkrish" /></p><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeshkrish&show_icons=true&theme=dark&title_color=ca4e4e&text_color=dedede&locale=en&layout=compact" alt="yeshkrish" /></p><br><br><br><br><br><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeshkrish&show_icons=true&theme=tokyonight&title_color=2b72e3&text_color=ffffff&locale=en" alt="yeshkrish" /></p>
 
