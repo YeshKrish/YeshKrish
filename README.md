@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yeswin Krishna</h1>
 <h3 align="center">A Game Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeshkrish" alt="yeshkrish" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/yesh_krish" target="blank"><img src="https://img.shields.io/twitter/follow/yesh_krish?logo=twitter&style=for-the-badge" alt="yesh_krish" /></a> </p>
 
 - 🔭 I’m currently working on [Boltz Adventure](https://github.com/YeshKrish/Boltz-Adventure)
