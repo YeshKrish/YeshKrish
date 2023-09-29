@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeshkrish&show_icons=true&theme=tokyonight&title_color=2b72e3&text_color=ffffff&locale=en" alt="yeshkrish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeshkrish&theme=dark" alt="yeshkrish" /></p>
+
+<p><a href="https://app.daily.dev/YeshKrish"><img src="https://api.daily.dev/devcards/80610e64ff504381919f8a3ed1a9a376.png?r=1be" width="400" alt="Yeshwin Krishna's Dev Card"/></a></p>
